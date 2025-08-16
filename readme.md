@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++/c,php,python and nodejs**
 
-- 📫 How to reach me **sheridkev@gmail.com**
+- 📫 How to reach me **sherikdev@gmail.com**
 
 - ⚡ Fun fact **I started to code since i was 7 years old and i'm linux enjoyer**
 
